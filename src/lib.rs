@@ -235,6 +235,7 @@ impl Board {
         }
 
         // To-do: En passant
+        // (need to track when a piece moves to en passant position)
  
         targets 
     }
